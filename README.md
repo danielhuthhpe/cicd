@@ -1,1 +1,1 @@
-# cicd demo on dockerEE
+# CI/CD demo on dockerEE
