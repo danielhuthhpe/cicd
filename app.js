@@ -8,5 +8,5 @@ http.createServer(function (request, response) {
    response.writeHead(200, {'Content-Type': 'text/plain'});
    
    // Send the response body as "Some String"
-   response.end('Good morning\n');
+   response.end('Good day\n');
 }).listen(5000);
